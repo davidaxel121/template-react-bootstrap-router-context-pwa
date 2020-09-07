@@ -9,13 +9,6 @@ import './App.css';
 
 // import { Context } from "./store/GlobalContext";
 
-/**
- * Default App with Global Context and Router
- *
- * @version 1.0.0
- * @author [DA]
- */
-
 function App() {
 
 	// const [globalState, setGlobalState] = useState({

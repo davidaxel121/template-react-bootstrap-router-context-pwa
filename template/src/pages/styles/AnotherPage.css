@@ -1,0 +1,12 @@
+.another-page-container {
+  min-height: 100vh;
+  color: var(--color-dark-green);
+}
+
+.another-page-hero {
+  min-height: 85vh;
+}
+
+.another-page-title {
+  font-weight: bold;
+}

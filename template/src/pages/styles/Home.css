@@ -1,3 +1,12 @@
-h1 {
-    color: red;
+.home-container {
+  min-height: 100vh;
+  color: var(--color-dark-green);
+}
+
+.home-hero {
+  min-height: 85vh;
+}
+
+.home-title {
+  font-weight: bold;
 }
